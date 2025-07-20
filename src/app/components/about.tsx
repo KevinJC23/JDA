@@ -9,7 +9,7 @@ export default function ContentSection() {
         </h2>
         <div className="grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24">
           <div className="relative mb-6 sm:mb-0">
-            <div className="bg-linear-to-b aspect-76/59 relative rounded-2xlto-transparent p-px dark:from-zinc-700">
+            <div className="bg-linear-to-b aspect-76/59 relative rounded-2xl to-transparent p-px dark:from-zinc-700">
               <Image
                 src="/people.png"
                 className="rounded-[15px]"
